@@ -1,0 +1,766 @@
+{
+  "meta": {
+    "source_file": "ai.term.xlsx",
+    "generated_at": "2025-11-01T15:17:31.060126",
+    "canonical_number": "plural",
+    "notes": "Parsed from wide-format CSV. Found 450 occurrences, normalized to 79 unique terms. Ignored terms: ['poster abstract', 'semeval-2024 task', 'special issue']. Orphan nodes connected to main graph: ['stability analysis -> nonlinear systems', 'multi-agent systems -> artificial intelligence']"
+  },
+  "nodes": [
+    {
+      "id": "neural networks",
+      "year": 2011
+    },
+    {
+      "id": "deep learning",
+      "year": 2015
+    },
+    {
+      "id": "large language models",
+      "year": 2023
+    },
+    {
+      "id": "face recognition",
+      "year": 2011
+    },
+    {
+      "id": "special issue",
+      "year": 2011
+    },
+    {
+      "id": "feature selection",
+      "year": 2011
+    },
+    {
+      "id": "social networks",
+      "year": 2011
+    },
+    {
+      "id": "machine learning",
+      "year": 2011
+    },
+    {
+      "id": "convolutional neural networks",
+      "year": 2015
+    },
+    {
+      "id": "artificial intelligence",
+      "year": 2014
+    },
+    {
+      "id": "genetic algorithm",
+      "year": 2011
+    },
+    {
+      "id": "deep neural networks",
+      "year": 2016
+    },
+    {
+      "id": "reinforcement learning",
+      "year": 2011
+    },
+    {
+      "id": "data mining",
+      "year": 2011
+    },
+    {
+      "id": "image segmentation",
+      "year": 2011
+    },
+    {
+      "id": "performance analysis",
+      "year": 2012
+    },
+    {
+      "id": "artificial neural networks",
+      "year": 2011
+    },
+    {
+      "id": "particle swarm optimization",
+      "year": 2011
+    },
+    {
+      "id": "genetic algorithms",
+      "year": 2011
+    },
+    {
+      "id": "object detection",
+      "year": 2011
+    },
+    {
+      "id": "multi-agent systems",
+      "year": 2012
+    },
+    {
+      "id": "support vector machine",
+      "year": 2011
+    },
+    {
+      "id": "fuzzy logic",
+      "year": 2011
+    },
+    {
+      "id": "cloud computing",
+      "year": 2012
+    },
+    {
+      "id": "anomaly detection",
+      "year": 2016
+    },
+    {
+      "id": "wireless sensor networks",
+      "year": 2011
+    },
+    {
+      "id": "bayesian networks",
+      "year": 2011
+    },
+    {
+      "id": "fault diagnosis",
+      "year": 2011
+    },
+    {
+      "id": "performance evaluation",
+      "year": 2011
+    },
+    {
+      "id": "semantic segmentation",
+      "year": 2018
+    },
+    {
+      "id": "sentiment analysis",
+      "year": 2014
+    },
+    {
+      "id": "image classification",
+      "year": 2012
+    },
+    {
+      "id": "recurrent neural networks",
+      "year": 2017
+    },
+    {
+      "id": "generative adversarial networks",
+      "year": 2019
+    },
+    {
+      "id": "knowledge graphs",
+      "year": 2020
+    },
+    {
+      "id": "time series",
+      "year": 2014
+    },
+    {
+      "id": "transfer learning",
+      "year": 2017
+    },
+    {
+      "id": "explainable ai",
+      "year": 2025
+    },
+    {
+      "id": "differential evolution",
+      "year": 2011
+    },
+    {
+      "id": "ant colony optimization",
+      "year": 2011
+    },
+    {
+      "id": "augmented reality",
+      "year": 2015
+    },
+    {
+      "id": "autonomous driving",
+      "year": 2021
+    },
+    {
+      "id": "contrastive learning",
+      "year": 2022
+    },
+    {
+      "id": "convolutional neural",
+      "year": 2018
+    },
+    {
+      "id": "data augmentation",
+      "year": 2021
+    },
+    {
+      "id": "deep neural",
+      "year": 2019
+    },
+    {
+      "id": "deep reinforcement learning",
+      "year": 2018
+    },
+    {
+      "id": "diffusion models",
+      "year": 2024
+    },
+    {
+      "id": "federated learning",
+      "year": 2021
+    },
+    {
+      "id": "generative ai",
+      "year": 2024
+    },
+    {
+      "id": "genetic programming",
+      "year": 2011
+    },
+    {
+      "id": "graph neural networks",
+      "year": 2021
+    },
+    {
+      "id": "language models",
+      "year": 2024
+    },
+    {
+      "id": "medical image segmentation",
+      "year": 2025
+    },
+    {
+      "id": "neural machine translation",
+      "year": 2019
+    },
+    {
+      "id": "nonlinear systems",
+      "year": 2012
+    },
+    {
+      "id": "particle swarm",
+      "year": 2012
+    },
+    {
+      "id": "person re-identification",
+      "year": 2018
+    },
+    {
+      "id": "social media",
+      "year": 2015
+    },
+    {
+      "id": "support vector machines",
+      "year": 2011
+    },
+    {
+      "id": "virtual reality",
+      "year": 2019
+    },
+    {
+      "id": "wireless sensor",
+      "year": 2014
+    },
+    {
+      "id": "stability analysis",
+      "year": 2011
+    },
+    {
+      "id": "optimal control",
+      "year": 2012
+    },
+    {
+      "id": "action recognition",
+      "year": 2011
+    },
+    {
+      "id": "comparative study",
+      "year": 2015
+    },
+    {
+      "id": "continual learning",
+      "year": 2021
+    },
+    {
+      "id": "self-supervised learning",
+      "year": 2022
+    },
+    {
+      "id": "object recognition",
+      "year": 2012
+    },
+    {
+      "id": "evolutionary algorithms",
+      "year": 2011
+    },
+    {
+      "id": "active learning",
+      "year": 2013
+    },
+    {
+      "id": "adversarial attacks",
+      "year": 2021
+    },
+    {
+      "id": "sparse representation",
+      "year": 2012
+    },
+    {
+      "id": "mobile devices",
+      "year": 2015
+    },
+    {
+      "id": "comparative analysis",
+      "year": 2017
+    },
+    {
+      "id": "knowledge distillation",
+      "year": 2021
+    },
+    {
+      "id": "few-shot learning",
+      "year": 2021
+    },
+    {
+      "id": "vision-language models",
+      "year": 2025
+    },
+    {
+      "id": "mobile robots",
+      "year": 2011
+    },
+    {
+      "id": "image processing",
+      "year": 2017
+    },
+    {
+      "id": "domain adaptation",
+      "year": 2022
+    },
+    {
+      "id": "deep learning models",
+      "year": 2023
+    },
+    {
+      "id": "ambient intelligence",
+      "year": 2011
+    },
+    {
+      "id": "multi-task learning",
+      "year": 2021
+    },
+    {
+      "id": "emotion recognition",
+      "year": 2023
+    },
+    {
+      "id": "extreme learning machine",
+      "year": 2016
+    }
+  ],
+  "edges": [
+    {
+      "source": "machine learning",
+      "relation": "is-a",
+      "target": "artificial intelligence"
+    },
+    {
+      "source": "deep learning",
+      "relation": "is-a",
+      "target": "machine learning"
+    },
+    {
+      "source": "reinforcement learning",
+      "relation": "is-a",
+      "target": "machine learning"
+    },
+    {
+      "source": "support vector machines",
+      "relation": "is-a",
+      "target": "machine learning"
+    },
+    {
+      "source": "bayesian networks",
+      "relation": "is-a",
+      "target": "machine learning"
+    },
+    {
+      "source": "data mining",
+      "relation": "is-a",
+      "target": "machine learning"
+    },
+    {
+      "source": "feature selection",
+      "relation": "part-of",
+      "target": "machine learning"
+    },
+    {
+      "source": "active learning",
+      "relation": "is-a",
+      "target": "machine learning"
+    },
+    {
+      "source": "multi-task learning",
+      "relation": "is-a",
+      "target": "machine learning"
+    },
+    {
+      "source": "continual learning",
+      "relation": "is-a",
+      "target": "machine learning"
+    },
+    {
+      "source": "few-shot learning",
+      "relation": "is-a",
+      "target": "machine learning"
+    },
+    {
+      "source": "self-supervised learning",
+      "relation": "is-a",
+      "target": "machine learning"
+    },
+    {
+      "source": "transfer learning",
+      "relation": "is-a",
+      "target": "machine learning"
+    },
+    {
+      "source": "federated learning",
+      "relation": "is-a",
+      "target": "machine learning"
+    },
+    {
+      "source": "contrastive learning",
+      "relation": "is-a",
+      "target": "self-supervised learning"
+    },
+    {
+      "source": "deep learning",
+      "relation": "requires",
+      "target": "neural networks"
+    },
+    {
+      "source": "deep neural networks",
+      "relation": "is-a",
+      "target": "neural networks"
+    },
+    {
+      "source": "artificial neural networks",
+      "relation": "is-a",
+      "target": "neural networks"
+    },
+    {
+      "source": "convolutional neural networks",
+      "relation": "is-a",
+      "target": "deep neural networks"
+    },
+    {
+      "source": "recurrent neural networks",
+      "relation": "is-a",
+      "target": "deep neural networks"
+    },
+    {
+      "source": "graph neural networks",
+      "relation": "is-a",
+      "target": "deep neural networks"
+    },
+    {
+      "source": "generative adversarial networks",
+      "relation": "is-a",
+      "target": "deep learning"
+    },
+    {
+      "source": "diffusion models",
+      "relation": "is-a",
+      "target": "deep learning"
+    },
+    {
+      "source": "deep learning models",
+      "relation": "is-a",
+      "target": "deep learning"
+    },
+    {
+      "source": "knowledge distillation",
+      "relation": "applies-to",
+      "target": "deep learning models"
+    },
+    {
+      "source": "data augmentation",
+      "relation": "applies-to",
+      "target": "deep learning"
+    },
+    {
+      "source": "extreme learning machine",
+      "relation": "is-a",
+      "target": "neural networks"
+    },
+    {
+      "source": "explainable ai",
+      "relation": "applies-to",
+      "target": "deep learning"
+    },
+    {
+      "source": "deep reinforcement learning",
+      "relation": "is-a",
+      "target": "deep learning"
+    },
+    {
+      "source": "deep reinforcement learning",
+      "relation": "is-a",
+      "target": "reinforcement learning"
+    },
+    {
+      "source": "language models",
+      "relation": "is-a",
+      "target": "neural networks"
+    },
+    {
+      "source": "large language models",
+      "relation": "is-a",
+      "target": "language models"
+    },
+    {
+      "source": "neural machine translation",
+      "relation": "is-a",
+      "target": "language models"
+    },
+    {
+      "source": "generative ai",
+      "relation": "requires",
+      "target": "large language models"
+    },
+    {
+      "source": "generative ai",
+      "relation": "requires",
+      "target": "diffusion models"
+    },
+    {
+      "source": "vision-language models",
+      "relation": "is-a",
+      "target": "deep learning models"
+    },
+    {
+      "source": "vision-language models",
+      "relation": "requires",
+      "target": "large language models"
+    },
+    {
+      "source": "image classification",
+      "relation": "is-a",
+      "target": "machine learning"
+    },
+    {
+      "source": "object recognition",
+      "relation": "is-a",
+      "target": "image classification"
+    },
+    {
+      "source": "object detection",
+      "relation": "is-a",
+      "target": "object recognition"
+    },
+    {
+      "source": "face recognition",
+      "relation": "is-a",
+      "target": "object recognition"
+    },
+    {
+      "source": "person re-identification",
+      "relation": "is-a",
+      "target": "object recognition"
+    },
+    {
+      "source": "image segmentation",
+      "relation": "is-a",
+      "target": "machine learning"
+    },
+    {
+      "source": "semantic segmentation",
+      "relation": "is-a",
+      "target": "image segmentation"
+    },
+    {
+      "source": "medical image segmentation",
+      "relation": "is-a",
+      "target": "image segmentation"
+    },
+    {
+      "source": "image processing",
+      "relation": "enables",
+      "target": "image classification"
+    },
+    {
+      "source": "sentiment analysis",
+      "relation": "is-a",
+      "target": "machine learning"
+    },
+    {
+      "source": "emotion recognition",
+      "relation": "is-a",
+      "target": "sentiment analysis"
+    },
+    {
+      "source": "autonomous driving",
+      "relation": "applies-to",
+      "target": "artificial intelligence"
+    },
+    {
+      "source": "object detection",
+      "relation": "applies-to",
+      "target": "autonomous driving"
+    },
+    {
+      "source": "semantic segmentation",
+      "relation": "applies-to",
+      "target": "autonomous driving"
+    },
+    {
+      "source": "action recognition",
+      "relation": "applies-to",
+      "target": "autonomous driving"
+    },
+    {
+      "source": "mobile robots",
+      "relation": "requires",
+      "target": "object detection"
+    },
+    {
+      "source": "fault diagnosis",
+      "relation": "is-a",
+      "target": "artificial intelligence"
+    },
+    {
+      "source": "anomaly detection",
+      "relation": "applies-to",
+      "target": "fault diagnosis"
+    },
+    {
+      "source": "evolutionary algorithms",
+      "relation": "is-a",
+      "target": "artificial intelligence"
+    },
+    {
+      "source": "genetic algorithms",
+      "relation": "is-a",
+      "target": "evolutionary algorithms"
+    },
+    {
+      "source": "genetic programming",
+      "relation": "is-a",
+      "target": "evolutionary algorithms"
+    },
+    {
+      "source": "differential evolution",
+      "relation": "is-a",
+      "target": "evolutionary algorithms"
+    },
+    {
+      "source": "particle swarm optimization",
+      "relation": "is-a",
+      "target": "evolutionary algorithms"
+    },
+    {
+      "source": "ant colony optimization",
+      "relation": "is-a",
+      "target": "evolutionary algorithms"
+    },
+    {
+      "source": "fuzzy logic",
+      "relation": "is-a",
+      "target": "artificial intelligence"
+    },
+    {
+      "source": "optimal control",
+      "relation": "is-a",
+      "target": "artificial intelligence"
+    },
+    {
+      "source": "reinforcement learning",
+      "relation": "enables",
+      "target": "optimal control"
+    },
+    {
+      "source": "knowledge graphs",
+      "relation": "enables",
+      "target": "explainable ai"
+    },
+    {
+      "source": "sparse representation",
+      "relation": "part-of",
+      "target": "feature selection"
+    },
+    {
+      "source": "machine learning",
+      "relation": "applies-to",
+      "target": "time series"
+    },
+    {
+      "source": "adversarial attacks",
+      "relation": "applies-to",
+      "target": "deep learning models"
+    },
+    {
+      "source": "domain adaptation",
+      "relation": "is-a",
+      "target": "transfer learning"
+    },
+    {
+      "source": "machine learning",
+      "relation": "applies-to",
+      "target": "mobile devices"
+    },
+    {
+      "source": "cloud computing",
+      "relation": "enables",
+      "target": "deep learning"
+    },
+    {
+      "source": "wireless sensor networks",
+      "relation": "enables",
+      "target": "ambient intelligence"
+    },
+    {
+      "source": "social networks",
+      "relation": "enables",
+      "target": "data mining"
+    },
+    {
+      "source": "social media",
+      "relation": "is-a",
+      "target": "social networks"
+    },
+    {
+      "source": "performance evaluation",
+      "relation": "applies-to",
+      "target": "machine learning"
+    },
+    {
+      "source": "performance analysis",
+      "relation": "applies-to",
+      "target": "machine learning"
+    },
+    {
+      "source": "comparative study",
+      "relation": "applies-to",
+      "target": "machine learning"
+    },
+    {
+      "source": "comparative analysis",
+      "relation": "applies-to",
+      "target": "machine learning"
+    },
+    {
+      "source": "machine learning",
+      "relation": "applies-to",
+      "target": "virtual reality"
+    },
+    {
+      "source": "machine learning",
+      "relation": "applies-to",
+      "target": "augmented reality"
+    },
+    {
+      "source": "stability analysis",
+      "relation": "applies-to",
+      "target": "nonlinear systems"
+    },
+    {
+      "source": "multi-agent systems",
+      "relation": "is-a",
+      "target": "artificial intelligence"
+    }
+  ]
+}
